@@ -1,0 +1,20 @@
+{
+    "Training_Dataset": "DataSets/SEPEDI/SepediSingle.csv",
+    "Testing_Dataset": "DataSets/SEPEDI/NorthernSothoSingle20_TestSet.csv",
+    "model_save_path": "mlp_path.pth",
+    "WordVecsSavePath": "WordVecs/Sepedi/nSotho_fasttext_embeddings.bin",
+    "CurrentLanguage": "sepedi",
+    "CurrentEmbeddings": "ft",
+    "train_test_split": 0.2,
+    "batch_size": 32,
+    "num_classes": 30,
+    "hidden_size1": 256,
+    "hidden_size2": 128,
+    "learning_rate": 0.001,
+    "epochs": 20,
+    "exNum": 21,
+    "HighAccuracyModelPath": "Models/Buff/",
+    "save_threshold": 0.895,
+    "VectorTypes": "Alex VDL",
+    "Serengeti": "UBC-NLP/serengeti-E250"
+}

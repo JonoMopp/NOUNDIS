@@ -1,0 +1,12 @@
+torch
+scikit-learn
+numpy
+pandas
+gensim
+transformers
+datasets
+transformers[torch]
+matplotlib
+shap
+lime
+ipython
