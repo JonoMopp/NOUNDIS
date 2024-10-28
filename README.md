@@ -28,8 +28,8 @@ change the corresponding values in the  `config` file and it will automatically 
 2. Follow the commandline instructions
 
 ## Connect With Me
-
-[![LinkedIn](https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png)](https://www.linkedin.com/in/jonathan-mopp-63223b246/)
-
+<a href="https://www.linkedin.com/in/jonathan-mopp-63223b246/">
+      <img src="https://w7.pngwing.com/pngs/602/665/png-transparent-in-icon-social-media-linkedin-computer-icons-linkedin-blue-text-trademark-thumbnail.png" alt="LinkedIn" style="width:40px; height:40px;">
+<a/> 
 
 
